@@ -1,6 +1,6 @@
 # Awesome-Mobile-Raster-Graphics-Editor
 
-# Top Mobile Raster Graphics Editor Ecosystem
+## Top Mobile Raster Graphics Editor Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on GPU-Accelerated Painting, Layer-Based Illustration & Touch-Optimized Photo Editing*  
