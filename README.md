@@ -62,69 +62,69 @@ The table below catalogs the leading commercial and SaaS mobile raster graphics 
 
 ## 💻 Open-Source Mobile Raster Graphics Editors
 
-The following open-source raster graphics editors and painting suites provide touch-native interfaces, privacy-respecting offline workflows, and self-hosted painting engines. Entries are sorted in descending order by **GitHub Star Count**.
+The following open-source raster graphics editors and painting suites provide touch-native interfaces, privacy-respecting offline workflows, and self-hosted painting engines. Entries are sorted in descending order by **GitHub Stars_Count**.
 
-1. ### [Krita for Android](https://krita.org) [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
+1. ### [Krita for Android](https://krita.org) [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social&color=white)](https://github.com/KDE/krita/stargazers)
    - **Repository**: [KDE/krita](https://github.com/KDE/krita) • **License**: GPL-3.0 • **Language**: C++ / Qt
    - **Platforms**: Android (arm64, Google Play / F-Droid / APK), ChromeOS, Linux, Windows, macOS
    - **Overview**: The premier desktop digital painting suite brought directly to Android tablets. Powered by the full Krita 5.x engine, it delivers desktop-grade brushes (pixel, color smudge, bristle, curve, sketch), layer stacks with clipping masks, non-destructive filter layers, CMYK color management, and full frame-by-frame 2D animation timelines.
    - **Best For**: Tablet artists with active styluses (4GB+ RAM recommended) desiring desktop-level painting depth without subscriptions.
 
-2. ### [PhotoEditor for Android](https://github.com/burhanrashid52/PhotoEditor) [![GitHub stars](https://img.shields.io/github/stars/burhanrashid52/PhotoEditor?style=social&color=white)](https://github.com/burhanrashid52/PhotoEditor/stargazers)
+2. ### [PhotoEditor for Android](https://github.com/burhanrashid52/PhotoEditor) [![GitHub_Stars](https://img.shields.io/github/stars/burhanrashid52/PhotoEditor?style=social&color=white)](https://github.com/burhanrashid52/PhotoEditor/stargazers)
    - **Repository**: [burhanrashid52/PhotoEditor](https://github.com/burhanrashid52/PhotoEditor) • **License**: Apache-2.0 • **Language**: Kotlin / Java
    - **Platforms**: Android
    - **Overview**: A versatile raster image editing and brush painting library for mobile platforms. Features customizable paint strokes with variable opacity and brush sizing, photographic filter overlays, emoji/sticker compositing, text manipulation, and fast bitmap rendering.
    - **Best For**: Developers embedding photo retouching, brush drawing, and image manipulation capabilities into Android applications.
 
-3. ### [Paintroid / Pocket Paint](https://github.com/Catrobat/Paintroid) [![GitHub stars](https://img.shields.io/github/stars/Catrobat/Paintroid?style=social&color=white)](https://github.com/Catrobat/Paintroid/stargazers)
+3. ### [Paintroid / Pocket Paint](https://github.com/Catrobat/Paintroid) [![GitHub_Stars](https://img.shields.io/github/stars/Catrobat/Paintroid?style=social&color=white)](https://github.com/Catrobat/Paintroid/stargazers)
    - **Repository**: [Catrobat/Paintroid](https://github.com/Catrobat/Paintroid) • **License**: GPL-3.0 • **Language**: Kotlin / Java
    - **Platforms**: Android (Google Play & F-Droid)
    - **Overview**: The official image manipulation and painting tool developed by the Catrobat project. Supports layer-based raster painting, stroke smoothing, stamp and fill tools, color replacement, geometric drawing shapes, color eyedropper, and non-destructive canvas zoom/pan.
    - **Best For**: Mobile illustrators seeking a lightweight, ad-free, open-source painting app on Android phones and tablets.
 
-4. ### [Sketch for iOS](https://github.com/daihase/Sketch) [![GitHub stars](https://img.shields.io/github/stars/daihase/Sketch?style=social&color=white)](https://github.com/daihase/Sketch/stargazers)
+4. ### [Sketch for iOS](https://github.com/daihase/Sketch) [![GitHub_Stars](https://img.shields.io/github/stars/daihase/Sketch?style=social&color=white)](https://github.com/daihase/Sketch/stargazers)
    - **Repository**: [daihase/Sketch](https://github.com/daihase/Sketch) • **License**: MIT • **Language**: Swift
    - **Platforms**: iOS, iPadOS
    - **Overview**: An open-source Swift drawing codebase designed for iPhone and iPad. Offers freehand raster drawing, customizable brush widths and opacity, color palette selectors, undo/redo state management, and image export.
    - **Best For**: iOS developers building custom sketching and drawing canvases with clean native Swift architecture.
 
-5. ### [Fossify Paint](https://github.com/FossifyOrg/Paint) [![GitHub stars](https://img.shields.io/github/stars/FossifyOrg/Paint?style=social&color=white)](https://github.com/FossifyOrg/Paint/stargazers)
+5. ### [Fossify Paint](https://github.com/FossifyOrg/Paint) [![GitHub_Stars](https://img.shields.io/github/stars/FossifyOrg/Paint?style=social&color=white)](https://github.com/FossifyOrg/Paint/stargazers)
    - **Repository**: [FossifyOrg/Paint](https://github.com/FossifyOrg/Paint) • **License**: GPL-3.0 • **Language**: Kotlin
    - **Platforms**: Android (F-Droid, Google Play)
    - **Overview**: A privacy-respecting, zero-telemetry offline drawing and painting tool. Features adjustable brush sizes and colors, background color configuration, and bitmap export in PNG, JPG, and SVG formats.
    - **Best For**: Casual sketching, quick diagramming, and signature capture without intrusive permissions.
 
-6. ### [Ananas Image Editor](https://github.com/iamutkarshtiwari/Ananas) [![GitHub stars](https://img.shields.io/github/stars/iamutkarshtiwari/Ananas?style=social&color=white)](https://github.com/iamutkarshtiwari/Ananas/stargazers)
+6. ### [Ananas Image Editor](https://github.com/iamutkarshtiwari/Ananas) [![GitHub_Stars](https://img.shields.io/github/stars/iamutkarshtiwari/Ananas?style=social&color=white)](https://github.com/iamutkarshtiwari/Ananas/stargazers)
    - **Repository**: [iamutkarshtiwari/Ananas](https://github.com/iamutkarshtiwari/Ananas) • **License**: Apache-2.0 • **Language**: Java / Android SDK
    - **Platforms**: Android
    - **Overview**: A clean, modular Android image editor providing raster brush drawing overlays, image enhancement filters (brightness, contrast, saturation, hue), cropping, rotation, and vignette adjustments.
    - **Best For**: Mobile photo editing, image preprocessing, and touch-up drawing.
 
-7. ### [ReveriePaint](https://github.com/LanRhyme/ReveriePaint) [![GitHub stars](https://img.shields.io/github/stars/LanRhyme/ReveriePaint?style=social&color=white)](https://github.com/LanRhyme/ReveriePaint/stargazers)
+7. ### [ReveriePaint](https://github.com/LanRhyme/ReveriePaint) [![GitHub_Stars](https://img.shields.io/github/stars/LanRhyme/ReveriePaint?style=social&color=white)](https://github.com/LanRhyme/ReveriePaint/stargazers)
    - **Repository**: [LanRhyme/ReveriePaint](https://github.com/LanRhyme/ReveriePaint) • **License**: GPL-3.0 • **Language**: Kotlin / C++
    - **Platforms**: Android
    - **Overview**: A modern Android digital painting application engineered specifically on top of Krita's high-performance C++ core rendering engine. Replaces the dense desktop UI with a clean, touch-first mobile interface tailored for stylus pressure and tablet gestures.
    - **Best For**: Android tablet painters seeking Krita's brush dynamics combined with a modern Procreate-like user experience.
 
-8. ### [Mooltik](https://github.com/ruskakimov/mooltik) [![GitHub stars](https://img.shields.io/github/stars/ruskakimov/mooltik?style=social&color=white)](https://github.com/ruskakimov/mooltik/stargazers)
+8. ### [Mooltik](https://github.com/ruskakimov/mooltik) [![GitHub_Stars](https://img.shields.io/github/stars/ruskakimov/mooltik?style=social&color=white)](https://github.com/ruskakimov/mooltik/stargazers)
    - **Repository**: [ruskakimov/mooltik](https://github.com/ruskakimov/mooltik) • **License**: MIT • **Language**: TypeScript / React Native
    - **Platforms**: Android, iOS
    - **Overview**: A cross-platform mobile raster animation and sketching application. Features a hand-drawn 2D frame animation workflow, onion skinning, layer management, timeline scrub controls, and export to MP4 and GIF.
    - **Best For**: Hand-drawn 2D animators and storyboard artists sketching on mobile touchscreens.
 
-9. ### [PixaPencil](https://github.com/tomdoeslinux/PixaPencil) [![GitHub stars](https://img.shields.io/github/stars/tomdoeslinux/PixaPencil?style=social&color=white)](https://github.com/tomdoeslinux/PixaPencil/stargazers)
+9. ### [PixaPencil](https://github.com/tomdoeslinux/PixaPencil) [![GitHub_Stars](https://img.shields.io/github/stars/tomdoeslinux/PixaPencil?style=social&color=white)](https://github.com/tomdoeslinux/PixaPencil/stargazers)
    - **Repository**: [tomdoeslinux/PixaPencil](https://github.com/tomdoeslinux/PixaPencil) • **License**: MIT • **Language**: Kotlin
    - **Platforms**: Android
    - **Overview**: A dedicated pixel art and raster sprite editor built for Android. Includes full multi-layer support, custom color palette creators, pixel grid overlays, color swap utilities, symmetry drawing modes, and sprite sheet export.
    - **Best For**: Indie game developers and pixel artists creating retro game assets on phones and tablets.
 
-10. ### [Compose Drawing App](https://github.com/SmartToolFactory/Compose-Drawing-App) [![GitHub stars](https://img.shields.io/github/stars/SmartToolFactory/Compose-Drawing-App?style=social&color=white)](https://github.com/SmartToolFactory/Compose-Drawing-App/stargazers)
+10. ### [Compose Drawing App](https://github.com/SmartToolFactory/Compose-Drawing-App) [![GitHub_Stars](https://img.shields.io/github/stars/SmartToolFactory/Compose-Drawing-App?style=social&color=white)](https://github.com/SmartToolFactory/Compose-Drawing-App/stargazers)
     - **Repository**: [SmartToolFactory/Compose-Drawing-App](https://github.com/SmartToolFactory/Compose-Drawing-App) • **License**: Apache-2.0 • **Language**: Kotlin / Jetpack Compose
     - **Platforms**: Android
     - **Overview**: An open-source drawing application built entirely using Jetpack Compose Canvas. Implements Bezier path smoothing, erase blend modes, stroke width customization, color picking, undo/redo state stacks, and bitmap persistence.
     - **Best For**: Android developers exploring modern declarative UI patterns for canvas touch drawing.
 
-11. ### [Capy Canvas](https://github.com/capyatelier/capycanvas) [![GitHub stars](https://img.shields.io/github/stars/capyatelier/capycanvas?style=social&color=white)](https://github.com/capyatelier/capycanvas/stargazers)
+11. ### [Capy Canvas](https://github.com/capyatelier/capycanvas) [![GitHub_Stars](https://img.shields.io/github/stars/capyatelier/capycanvas?style=social&color=white)](https://github.com/capyatelier/capycanvas/stargazers)
     - **Repository**: [capyatelier/capycanvas](https://github.com/capyatelier/capycanvas) • **License**: GPL-3.0 • **Language**: Rust / wgpu
     - **Platforms**: iPad, Android, Linux, Windows, macOS, Web
     - **Overview**: A cutting-edge GPU-accelerated painting and photo editing application built with Rust and WebGPU (`wgpu`). Targets 120+ FPS performance with brushes thousands of pixels wide across three workspaces: Sketch, Paint, and Photo. Supports 16/32-bit float HDR, non-destructive effect pipelines, and layer clipping masks.
@@ -201,7 +201,7 @@ Contributions are warmly welcomed! To suggest a new tool or update an existing e
 2. Create a new branch (`git checkout -b feature/add-new-editor`).
 3. Add or update entries in `README.md` following the established table/list formatting.
 4. Ensure SaaS entries include specific pricing, free tier limits, and valuation/revenue data.
-5. Ensure Open-Source entries include active GitHub repo links and star badges (`style=social&color=white`).
+5. Ensure Open-Source entries include active GitHub repo links and Stars_Badges (`style=social&color=white`).
 6. Submit a Pull Request with a concise summary of the changes.
 
 ---
